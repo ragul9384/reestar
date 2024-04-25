@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    height: 80px;
+    width: 100Vw;
+    background-color: black;
+    color: wheat;
+    text-align: center;
+
+}
+ul,li{
+    display: inline ;   
+}
+h1{
+   padding-top: 15px;
+}
+input{
+    width:40%;
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+   
+}
+.search{
+    margin-top: 20px;
+    text-align: center;
+}
+.receipe{
+    text-align: center;
+   
+}
+
+.box{
+    width:220px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 5px;
+   margin-top: 100px;
+   margin-right: 20px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;;
+}
+img{
+    border-radius: 5px;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 30px;
+   padding: 5px;
+   border-radius: 15px;
+   margin-top: 5px;
+}
+.contact{
+    text-align: center;
+    color: white;
+   background-color: black;
+   margin-top: 125px;
+   padding: 5px;
+}
+label,input{
+    display: inline;
+    margin-top: 10px;
+}
+input{
+    width: 20%;
+    height: 15px;
+    
+}
